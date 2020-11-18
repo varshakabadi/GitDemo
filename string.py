@@ -1,0 +1,15 @@
+print("This is my 1st program in python!!!")
+print(" I am really intrested for that!! ")
+print("this is my'new thing ")
+print("Hello"+"World")
+print('varsha "yashawant kabadi')
+gretting= "Hell0"
+name= input("Enter Your name")
+print(gretting + ' ' + name)
+print('welcome')
+sirname=input("Please Enter your sirname ")
+print(name+ ' '+ sirname )
+age=24
+print(age)
+print(type(gretting))
+print(type(age))
